@@ -1,0 +1,5 @@
+python_arango==5.4.0
+lxml==4.5.0
+igramscraper==0.3.2
+requests==2.21.0
+arango==0.2.1
