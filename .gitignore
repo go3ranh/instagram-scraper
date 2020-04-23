@@ -1,0 +1,11 @@
+
+.idea/
+
+sessions/
+
+__pycache__/
+
+
+*.tsv
+*.csv
+*.json
