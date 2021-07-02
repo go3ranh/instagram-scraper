@@ -1,5 +1,6 @@
 # instagram-scraper
 
+DOES NOT WORK CURRENTLY! NEEDS WORK...
   
 Originaly there were a init.py, start.py. pictures.py... This is now all within enhanced..py 
 
